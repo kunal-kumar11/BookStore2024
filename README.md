@@ -11,23 +11,21 @@ View and manage the cart
 Place orders and view order history
 Technologies Used
 Frontend:
-
 React
 Tailwind CSS
 Backend:
-
 Node.js
 Express.js
 Mongoose (MongoDB)
 Socket.io
 Database:
-
 MongoDB Cloud
 Deployment:
-
 Netlify (Frontend)
-Render  (Backend)
+Render (Backend)
 Getting Started
+Installation
+Clone the repository:
 
 bash
 Copy code
@@ -114,10 +112,10 @@ Deployment
 Frontend
 The frontend is deployed on Netlify. Configure your Netlify deployment settings to build and deploy the frontend directory.
 Backend
-The backend can be deployed on any platform that supports Node.js (e.g., Heroku, AWS, DigitalOcean). Ensure that your MongoDB Cloud URI and other environment variables are set correctly on your deployment platform.
+The backend can be deployed on Render. Ensure that your MongoDB Cloud URI and other environment variables are set correctly on your deployment platform.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
 License
-This project is licensed are reserved
+This project is licensed under the MIT License.
 
